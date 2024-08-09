@@ -9,8 +9,6 @@ A simple and customizable password generator web application.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Tech Stack](#tech)
-- [License](#license)
-- [Acknowledgments](#Acknowledgements)
 
 ## Introduction
 
@@ -43,18 +41,3 @@ git clone https://github.com/jaiminpatel047/PasswordGenerator.git
 
 ## 🛠 Tech Stack
 Javascript, HTML, CSS...
-
-# Hi, I'm Jaimin! 👋
-
-Hi, I'm Jaimin, a front-end developer with several years of experience in HTML5, CSS3, JavaScript, and React. I am passionate about creating user-friendly web applications using .NET Core, .NET Framework, and SQL. I also have expertise in Bootstrap and Tailwind CSS. Currently, I am actively working with .NET Core 6.
-
-This GitHub repository showcases my work and projects, demonstrating my skills in web development and proficiency with the mentioned technologies. Feel free to explore the repository to see examples of my code and projects.
-
-🌟 If you find this project helpful or interesting, please consider giving it a star on GitHub! ⭐️
-Your support means a lot! 🚀💻
-
-If you have any questions, suggestions, or would like to collaborate on a project, please feel free to reach out. I'm excited about the opportunity to contribute to innovative and engaging web development projects.
-
-## Acknowledgements
-
-Thanks to [Jaimin Patel](https://jaimindev.blogspot.com/) for creating this project.
