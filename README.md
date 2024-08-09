@@ -6,8 +6,8 @@ A simple and customizable password generator web application.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Tech Stack](#tech)
 
 ## Introduction
