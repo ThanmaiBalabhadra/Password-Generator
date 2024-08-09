@@ -9,6 +9,7 @@ A simple and customizable password generator web application.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Tech Stack](#tech)
+- [Live link](#livelink)
 
 ## Introduction
 
@@ -41,3 +42,6 @@ git clone https://github.com/jaiminpatel047/PasswordGenerator.git
 
 ## 🛠 Tech Stack
 Javascript, HTML, CSS...
+
+### Live Link
+https://cool-semifreddo-ee8089.netlify.app/
