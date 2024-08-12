@@ -5,11 +5,9 @@ A simple and customizable password generator web application.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Tech Stack](#tech)
-- [Live link](#livelink)
+- [Tech Stack](#tech-stack)
+- [Live Demo](#live-demo)
 
 ## Introduction
 
@@ -22,26 +20,15 @@ Password Generator is a web application that allows users to generate strong and
 - Real-time feedback on password strength
 - Copy generated passwords to the clipboard with a single click
 - Dark and light theme options for user preference
-
-## Getting Started
-
-### Prerequisites
-
-To run this project locally, ensure you have the following installed:
-
-- A modern web browser
-- [Node.js](https://nodejs.org/) (optional, for development)
-
 ### Installation
 
 1. Clone the repository to your local machine:
+bash....
+https://github.com/ThanmaiBalabhadra/Password-Generator.git.
 
-```bash
-git clone https://github.com/jaiminpatel047/PasswordGenerator.git
-````
+### Tech Stack
+- Javascript, HTML, CSS...
+### Live Demo
+- https://warm-granita-652f6c.netlify.app/
 
-## 🛠 Tech Stack
-Javascript, HTML, CSS...
 
-### Live Link
-https://cool-semifreddo-ee8089.netlify.app/
